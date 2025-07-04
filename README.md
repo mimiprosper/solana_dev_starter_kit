@@ -20,10 +20,29 @@ We’re building a Solana Developer Starter Kit, an open-source, beginner-friend
 
 - 📚 PDF Guide: Offline-first PDF documentation for students with limited internet access.
 
-Everything will be open-source, hosted on GitHub, and shared with universities, tech communities, and hackathons across Nigeria.
+Everything will be open-source, hosted on GitHub, and shared with universities, tech communities, and hackathons across Nigeria. 
 
 ## ✅ Why This Matters
 This starter kit helps localize Web3 education, lowers onboarding barriers, and diversifies the Solana developer base across Nigeria. It will be open-source, community-accessible, and extendable by other language groups and dev circles across Africa.
+
+## 📑 Contents
+
+| Projects                    | Documentation                                 | Videos                                |
+|----------------------------|-------------------------------------------|----------------------------------------|
+| project-1-favorites         | [View Docs](#project-1-favorites-docs)     | [Watch Video](#project-1-favorites-video)     |
+| project-2-voting            | [View Docs](#project-2-voting-docs)        | [Watch Video](#project-2-voting-video)        |
+| project-3-blinks            | [View Docs](#project-3-blinks-docs)        | [Watch Video](#project-3-blinks-video)        |
+| project-4-crud-app          | [View Docs](#project-4-crud-app-docs)      | [Watch Video](#project-4-crud-app-video)      |
+| project-5-tokens            | [View Docs](#project-5-tokens-docs)        | [Watch Video](#project-5-tokens-video)        |
+| project-6-nfts              | [View Docs](#project-6-nfts-docs)          | [Watch Video](#project-6-nfts-video)          |
+| project-7-swap              | [View Docs](#project-7-swap-docs)          | [Watch Video](#project-7-swap-video)          |
+| project-8-token-vesting     | [View Docs](#project-8-token-vesting-docs) | [Watch Video](#project-8-token-vesting-video) |
+| project-9-token-lottery     | [View Docs](#project-9-token-lottery-docs) | [Watch Video](#project-9-token-lottery-video) |
+| project-10-lending          | [View Docs](#project-10-lending-docs)      | [Watch Video](#project-10-lending-video)      |
+| project-11-programmable-money | [View Docs](#project-11-programmable-money-docs) | [Watch Video](#project-11-programmable-money-video) |
+| project-12-attack-the-bank  | [View Docs](#project-12-attack-the-bank-docs) | [Watch Video](#project-12-attack-the-bank-video) |
+| project-13-getting-to-production | [View Docs](#project-13-getting-to-production-docs) | [Watch Video](#project-13-getting-to-production-video) |
+
 
 
 
