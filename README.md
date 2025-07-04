@@ -10,13 +10,13 @@ There is currently no beginner-friendly, localized Solana onboarding kit tailore
 ## 💡 What We’re Building
 We’re building a Solana Developer Starter Kit, an open-source, beginner-friendly education package for African developers that includes:
 
-- 🌍 Multilingual Solana Learning Content: Step-by-step tutorials and explainers in Yoruba, Pidgin English, and standard English.
+- 🌍 Pidgin English Solana Learning Content: Step-by-step tutorials and explainers in Pidgin English, and standard English.
 
 - 🧑🏽‍💻 Code Templates: Starter templates using Rust + Anchor and JavaScript/TypeScript SDKs.
 
-- 📹 Video Walkthroughs: Localized YouTube tutorial series (captioned in Yoruba and Pidgin).
+- 📹 Video Walkthroughs: Localized YouTube tutorial series Pidgin English.
 
-- 🧱 Mini Projects: Build-to-learn demos like a wallet tracker, counter dApp, and token faucet.
+- 🧱 Mini Projects: Build-to-learn demos like a voting, nfts, crud dApps.
 
 - 📚 PDF Guide: Offline-first PDF documentation for students with limited internet access.
 
