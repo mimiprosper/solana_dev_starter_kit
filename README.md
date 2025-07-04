@@ -43,6 +43,65 @@ This starter kit helps localize Web3 education, lowers onboarding barriers, and 
 | project-12-attack-the-bank  | [View Docs](#project-12-attack-the-bank-docs) | [Watch Video](#project-12-attack-the-bank-video) |
 | project-13-getting-to-production | [View Docs](#project-13-getting-to-production-docs) | [Watch Video](#project-13-getting-to-production-video) |
 
+## 🤝 Contributor Guide
+Welcome! 👋 We're excited that you're interested in contributing to the Solana Developer Starter Kit — an open-source initiative to help African developers learn how to build on Solana.
+
+This guide will help you get started, understand our contribution process, and make meaningful contributions — whether you're a developer, writer, translator, or content creator.
+
+## 🧑🏾‍💻 Ways to Contribute
+You can contribute in several ways:
+1. 💻 Code Contributions
+- Fix bugs or improve the example dApps
+- Add new starter projects using Solana, Anchor, or web3.js
+- Improve code readability, comments, and structure
+
+2. 📝 Documentation & Tutorials
+- Write beginner-friendly tutorials in Markdown
+- Translate existing docs into Pidgin, Yoruba, or other African languages
+- Correct typos or improve explanations
+
+3. 🎥 Video Content
+- Create video walkthroughs of existing tutorials
+- Translate or subtitle videos in local languages
+
+## 🔄 How to Contribute
+1. Fork the Repository
+Click the Fork button on GitHub to create your own copy.
+
+2. Clone the Repo
+```
+git clone https://github.com/your-username/solana-developer-starter-kit.git
+cd solana-developer-starter-kit
+```
+3. Create a New Branch
+```
+git checkout -b your-feature-name
+```
+4. Make Changes
+Edit code, docs, or add video links.
+
+5. Commit and Push
+```
+git add .
+git commit -m "Add: Your feature summary"
+git push origin your-feature-name
+```
+6. Create a Pull Request
+Open a PR from your forked repo into the main branch of this project. Follow the PR template and describe your changes clearly.
+
+## ✅ Contribution Guidelines
+- Keep PRs focused and small
+- Write clean, readable, and well-documented code
+- translations, use a consistent tone and style
+- Add your name to the CONTRIBUTORS.md file
+
+## 💬 Communication
+Got questions? Want to collaborate?
+Join our Telegram Group or Discord
+Open a GitHub issue if you spot bugs or want to propose a feature
+
+## 🙏 Thank You
+Thanks for being part of our mission to onboard the next generation of African Solana developers! Your contribution, no matter how small, helps make Web3 more accessible and inclusive.
 
 
 
